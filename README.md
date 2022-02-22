@@ -16,10 +16,10 @@ $ pkg upgrade && pkg update
 $ apt install python
 $ apt install python2
 $ apt install git
-$ git clone https://github.com/kobustorghostteam/AdminFinder
-$ cd AdminFinder
+$ git clone https://github.com/kobustorghostteam/AdminFinderV2.0
+$ cd AdminFinderV2.0
 $ ls
-$ python2 adminfinder.py
+$ python2 adminfinderv2.0.py
 ```
 
 ### SPECIAL TO KOBUSTOR GHOST TEAM
