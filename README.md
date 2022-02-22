@@ -8,6 +8,8 @@
 This tool was created to scan the website login admin page. 
 For those of you who are difficult to find the website admin page, 
 you can try using this tool 🙏 
+update on : selasa 22 febuari 2022 
+what is updated is: the addition of the cms login
 The programming languages ​​used for this tool are: PHP and Python2
 ```
 ### The Ezy Method
@@ -47,7 +49,7 @@ S4dboyXPLOID404
 
 ./Rapid~Shock
 ```
-# TERIMA KASIH SUDAH PAKAI TOOLS KAMI🙏
+# THANK YOU FOR USING OUR TOOLS🙏
 ### FIX BUG TOOLS ?
 <img src="https://i.top4top.io/p_22394xlbu6.png"><a href="https://www.facebook.com/akuninibot"></a>
 <p align="center">
